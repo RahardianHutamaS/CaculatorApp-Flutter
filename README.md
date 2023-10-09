@@ -2,7 +2,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-2.0-blue)
 ![Dart](https://img.shields.io/badge/Dart-2.12-green)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 CalculatorApp-Flutter adalah aplikasi kalkulator sederhana yang dibangun menggunakan kerangka kerja Flutter. Aplikasi ini dirancang untuk menyediakan pengguna dengan alat kalkulasi yang mudah digunakan dan responsif, yang dapat dijalankan pada platform Android dan iOS.
 
