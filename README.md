@@ -24,9 +24,4 @@ CalculatorApp-Flutter adalah aplikasi kalkulator sederhana yang dibangun menggun
 ## Kontribusi
 Kami sangat menghargai kontribusi dari komunitas open-source. Jika Anda ingin berkontribusi pada pengembangan CalculatorApp-Flutter, silakan buka tiket (issue) atau kirimkan pull request.
 
-## Lisensi
-CalculatorApp-Flutter dilisensikan di bawah Lisensi MIT. Lihat file [LISENSI](LISENSI) untuk informasi lebih lanjut.
-
 Terima kasih telah menggunakan CalculatorApp-Flutter! Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau saran.
-
-![Screenshot](screenshots/screenshot.png)
