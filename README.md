@@ -1,16 +1,32 @@
-# calculator
+# CalculatorApp-Flutter
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-2.0-blue)
+![Dart](https://img.shields.io/badge/Dart-2.12-green)
+![License](https://img.shields.io/badge/License-MIT-red)
 
-## Getting Started
+CalculatorApp-Flutter adalah aplikasi kalkulator sederhana yang dibangun menggunakan kerangka kerja Flutter. Aplikasi ini dirancang untuk menyediakan pengguna dengan alat kalkulasi yang mudah digunakan dan responsif, yang dapat dijalankan pada platform Android dan iOS.
 
-This project is a starting point for a Flutter application.
+## Fitur Utama
+- **Operasi Matematika Dasar**: Aplikasi ini mendukung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+- **Tampilan yang Bersih**: Antarmuka pengguna aplikasi ini dirancang dengan tampilan yang bersih dan mudah dimengerti.
+- **Responsif**: CalculatorApp-Flutter dapat dijalankan dengan baik pada berbagai perangkat dan ukuran layar, sehingga pengguna dapat mengakses kalkulator ini dengan nyaman.
+- **Kode Sumber Terbuka**: Proyek ini sepenuhnya open-source, sehingga Anda dapat melihat, mengunduh, dan berkontribusi pada kode sumbernya.
 
-A few resources to get you started if this is your first Flutter project:
+## Persyaratan Pengembangan
+- Flutter 2.0 atau versi lebih baru
+- Dart 2.12 atau versi lebih baru
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cara Menggunakan
+1. Clone repositori ini ke perangkat Anda.
+2. Buka proyek menggunakan editor Flutter seperti VSCode atau Android Studio.
+3. Jalankan aplikasi di emulator atau perangkat fisik Anda.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kontribusi
+Kami sangat menghargai kontribusi dari komunitas open-source. Jika Anda ingin berkontribusi pada pengembangan CalculatorApp-Flutter, silakan buka tiket (issue) atau kirimkan pull request.
+
+## Lisensi
+CalculatorApp-Flutter dilisensikan di bawah Lisensi MIT. Lihat file [LISENSI](LISENSI) untuk informasi lebih lanjut.
+
+Terima kasih telah menggunakan CalculatorApp-Flutter! Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau saran.
+
+![Screenshot](screenshots/screenshot.png)
